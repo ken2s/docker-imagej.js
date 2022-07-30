@@ -1,0 +1,11 @@
+/bin/
+/work/
+/build/
+/dist/
+MANIFEST
+.vscode/settings.json
+.vscode/launch.json
+.virtual_documents
+.virtual_documents/*
+.DS_Store
+@eaDir

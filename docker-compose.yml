@@ -1,0 +1,8 @@
+version: '3.3'
+
+services:
+  imagejjs:
+    image: ken2s/imagejjs
+    container_name: imagejjs
+    ports:
+      - 9090:9090
