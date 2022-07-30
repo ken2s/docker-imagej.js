@@ -1,5 +1,7 @@
 # docker-ImageJ.JS: ImageJ running in the browser
 
+<a href="https://github.com/ken2s/docker-imagej.js/actions" rel="nofollow noopener" target="_blank"><img src="https://github.com/ken2s/docker-imagej.js/actions/workflows/build-and-push-image.yml/badge.svg" alt="Publish Docker image workflow"></a></p>
+
 ## Run the ImageJ.JS site locally
 
 ```bash
